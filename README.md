@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritinbind
-- 👀 I’m interested in developed application.
+- 👀 I’m interested in android developing.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on tcs
 - 📫 contact to me at bindritin@gmail.com
       contact number 9125116194.
 
